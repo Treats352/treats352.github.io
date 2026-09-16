@@ -36,18 +36,17 @@
       "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/Livery%20Canter%20Custom%2022.png"
     },
     {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
-    }
-  ,
+      "title":"Hino 500 Engkel",
+      "image":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/3.jpg",
+      "link_mods":"https://treats352.github.io/Hino 500 Engkel.zip",
+      "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/lIVERY%20Hino%20500%20Engkel.png"
+    },
     {
       "title":"Truck UD Quester Bak Muat Kayu",
       "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
+    },
     {
       "title":"Jaguar XE SV Project 8",
       "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",

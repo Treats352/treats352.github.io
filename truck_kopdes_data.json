@@ -288,10 +288,28 @@
       "link_livery":""
       },
      {
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
+      "title":"Toyota Avanza S 2011 KORPS BRIMOB",
+      "image":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/45.jpg",
+      "link_mods":"https://treats352.github.io/Toyota Avanza S 2011 KORPS BRIMOB.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/Livery%20Toyota%20Avanza%20S%202011%20KORPS%20BRIMOB.png"
+      },
+     {
+      "title":"Police Car Honda Jazz",
+      "image":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/46.jpg",
+      "link_mods":"https://treats352.github.io/Police Car Honda Jazz.bussidvehicle",
+      "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/polisi.png"
+      },
+     {
+      "title":"Canter Polisi",
+      "image":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/47.jpg",
+      "link_mods":"https://treats352.github.io/Canter Polisi Tanpa Penutup.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/Canter%20Polisi.png"
+      },
+     {
+      "title":"Bus Yudistira HD Polisi",
+      "image":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/48.jpg",
+      "link_mods":"",
+      "link_livery":"https://raw.githubusercontent.com/Treats352/treats352.github.io/refs/heads/main/LIVERY%20POLIS%20HD%20by%20ARCHER_008.png"
       },
      {
       "title":"Jaguar XE SV Project 8",
